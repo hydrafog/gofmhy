@@ -32,7 +32,7 @@ extra_themes = [
 ]
 
 [extra]
-accent_color = ["blue", "purple"]
+accent_color = ["purple", "purple"]
 source_url = "https://github.com/hydrafog/gofmhy"
 show_reading_time = true
 copy_button = true
