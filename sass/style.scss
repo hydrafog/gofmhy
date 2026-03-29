@@ -52,9 +52,10 @@
 */
 
 :root {
-  /* Default to dark if no theme is specified */
-  @include variables("dark");
-  @include variables-accent("dark");
+  /* Default to dark if no theme is specified. 
+     MUST include "common" for layout variables like --content-width */
+  @include variables(("dark", "common"));
+  @include variables-accent(("dark", "common"));
   color-scheme: dark;
   
   scroll-behavior: smooth;
@@ -69,7 +70,7 @@
 }
 
 :root[data-theme="dark"] {
-  @include variables("dark");
-  @include variables-accent("dark");
+  @include variables(("dark", "common"));
+  @include variables-accent(("dark", "common"));
   color-scheme: dark;
 }
