@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>gofmhy</title>
     <subtitle>The largest collection of free stuff on the internet!</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://gofmhy.me/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://gofmhy.me"/>
+    <link rel="self" type="application/atom+xml" href="https://hydrafog.github.io/gofmhy/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2026-03-01T00:00:00+00:00</updated>
-    <id>https://gofmhy.me/atom.xml</id>
+    <id>https://hydrafog.github.io/gofmhy/atom.xml</id>
     <entry xml:lang="en">
         <title>Monthly Updates [March]</title>
         <published>2026-03-01T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/mar-2026/"/>
-        <id>https://gofmhy.me/posts/mar-2026/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/mar-2026/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/mar-2026/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/mar-2026/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/mar-2026/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -131,10 +131,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/keepandroidopen/"/>
-        <id>https://gofmhy.me/posts/keepandroidopen/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/keepandroidopen/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/keepandroidopen/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/keepandroidopen/">&lt;h3 id=&quot;android-will-become-a-locked-down-platform-in-less-than-200-days&quot;&gt;Android will become a locked-down platform in less than 200 days.&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/keepandroidopen/">&lt;h3 id=&quot;android-will-become-a-locked-down-platform-in-less-than-200-days&quot;&gt;Android will become a locked-down platform in less than 200 days.&lt;&#x2F;h3&gt;
 &lt;p&gt;In August 2025, Google announced that as of September 2026, it will no longer be possible to develop apps for the Android platform &lt;strong&gt;without first registering centrally with Google&lt;&#x2F;strong&gt;. This registration will involve:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Paying a fee to Google&lt;&#x2F;li&gt;
@@ -196,10 +196,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/feb-2026/"/>
-        <id>https://gofmhy.me/posts/feb-2026/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/feb-2026/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/feb-2026/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/feb-2026/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/feb-2026/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -340,10 +340,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/jan-2026/"/>
-        <id>https://gofmhy.me/posts/jan-2026/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/jan-2026/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/jan-2026/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/jan-2026/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/jan-2026/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -502,10 +502,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/changelog-sites/"/>
-        <id>https://gofmhy.me/posts/changelog-sites/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/changelog-sites/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/changelog-sites/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/changelog-sites/">&lt;p&gt;&lt;strong&gt;https:&#x2F;&#x2F;changes.fmhy.bid&#x2F;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/changelog-sites/">&lt;p&gt;&lt;strong&gt;https:&#x2F;&#x2F;changes.fmhy.bid&#x2F;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;This covers changes that occur in both the #Recently-Added and #Monthly-Update channels in our Discord.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;strong&gt;https:&#x2F;&#x2F;fmhy-tracker.pages.dev&#x2F;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -528,10 +528,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/dec-2025/"/>
-        <id>https://gofmhy.me/posts/dec-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/dec-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/dec-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/dec-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/dec-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -630,10 +630,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/nov-2025/"/>
-        <id>https://gofmhy.me/posts/nov-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/nov-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/nov-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/nov-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/nov-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -744,10 +744,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/oct-2025/"/>
-        <id>https://gofmhy.me/posts/oct-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/oct-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/oct-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/oct-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/oct-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -846,10 +846,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/wwh/"/>
-        <id>https://gofmhy.me/posts/wwh/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/wwh/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/wwh/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/wwh/">&lt;p&gt;People always want to know what the point of life is. Why are they on earth? What are we doing here? Whats our purpose? &lt;em&gt;Whats the point?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/wwh/">&lt;p&gt;People always want to know what the point of life is. Why are they on earth? What are we doing here? Whats our purpose? &lt;em&gt;Whats the point?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;For most of my life, I didn’t really have any answer, but as I got older, I realized, things weren’t about me. I took a step back, and recognized a much bigger picture we’re all apart of, and I now know exactly why we’re here on earth.&lt;&#x2F;p&gt;
 &lt;p&gt;As a human, you have a powerful ability, to calm, heal, and help those around you. You have the ability to protect both the people in our world, and the planet itself from harm and distress.&lt;&#x2F;p&gt;
 &lt;p&gt;I know there is a huge amount of pain in our world, a lot of anger, a lot of sadness, and believe me when I say, I share the same feelings. However I believe its important that we each learn to &lt;em&gt;&lt;strong&gt;harness that energy into things that are positive and kind&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;, not negative or evil.&lt;&#x2F;p&gt;
@@ -879,10 +879,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/fcc/"/>
-        <id>https://gofmhy.me/posts/fcc/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/fcc/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/fcc/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/fcc/">&lt;h3 id=&quot;the-eu-still-wants-to-scan-your-private-messages-and-photos&quot;&gt;The EU (still) wants to scan your private messages and photos.&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/fcc/">&lt;h3 id=&quot;the-eu-still-wants-to-scan-your-private-messages-and-photos&quot;&gt;The EU (still) wants to scan your private messages and photos.&lt;&#x2F;h3&gt;
 &lt;p&gt;The “Chat Control” proposal would mandate scanning of all private digital communications, including encrypted messages and photos. This threatens fundamental privacy rights and digital security for all EU citizens.&lt;&#x2F;p&gt;
 &lt;p&gt;Every photo, every message, and every file you send will be automatically scanned—without your consent or suspicion. This is not about catching criminals; it is &lt;em&gt;&lt;strong&gt;mass surveillance&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt; imposed on all 450 million citizens of the European Union.&lt;&#x2F;p&gt;
 &lt;p&gt;EU politicians &lt;em&gt;exempt themselves&lt;&#x2F;em&gt; from this surveillance under “professional secrecy” rules. They get privacy. You and your family do not. If you’re in the EU, please consider contacting Members of the European Parliament (MEPs) using the info provided on the site below:&lt;&#x2F;p&gt;
@@ -905,10 +905,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/sept-2025/"/>
-        <id>https://gofmhy.me/posts/sept-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/sept-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/sept-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/sept-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/sept-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1026,10 +1026,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/aug-2025/"/>
-        <id>https://gofmhy.me/posts/aug-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/aug-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/aug-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/aug-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/aug-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1179,10 +1179,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/july-2025/"/>
-        <id>https://gofmhy.me/posts/july-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/july-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/july-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/july-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/july-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1314,10 +1314,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/june-2025/"/>
-        <id>https://gofmhy.me/posts/june-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/june-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/june-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/june-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/june-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1447,10 +1447,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/may-2025/"/>
-        <id>https://gofmhy.me/posts/may-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/may-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/may-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/may-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/may-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1574,10 +1574,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/support-ia/"/>
-        <id>https://gofmhy.me/posts/support-ia/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/support-ia/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/support-ia/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/support-ia/">&lt;p&gt;A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding &lt;strong&gt;$700 million&lt;&#x2F;strong&gt; for our work preserving and providing access to historical 78rpm records. These fragile, obsolete discs hold some of the earliest recordings of a vanishing American culture. But this lawsuit goes far beyond old records. It’s an attack on the Internet Archive itself.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/support-ia/">&lt;p&gt;A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding &lt;strong&gt;$700 million&lt;&#x2F;strong&gt; for our work preserving and providing access to historical 78rpm records. These fragile, obsolete discs hold some of the earliest recordings of a vanishing American culture. But this lawsuit goes far beyond old records. It’s an attack on the Internet Archive itself.&lt;&#x2F;p&gt;
 &lt;p&gt;This lawsuit is an &lt;strong&gt;existential threat&lt;&#x2F;strong&gt; to the Internet Archive and everything we preserve—including the &lt;strong&gt;Wayback Machine&lt;&#x2F;strong&gt;, a cornerstone of memory and preservation on the internet.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;At a time when digital information is disappearing, being rewritten, or erased entirely, the tools to preserve history must be defended—not dismantled.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;This isn’t just about music. It’s about whether future generations will have access to knowledge, history, and culture.&lt;&#x2F;p&gt;
@@ -1603,10 +1603,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/april-2025/"/>
-        <id>https://gofmhy.me/posts/april-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/april-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/april-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/april-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/april-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1714,10 +1714,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/mar-2025/"/>
-        <id>https://gofmhy.me/posts/mar-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/mar-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/mar-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/mar-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/mar-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1810,10 +1810,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/feb-2025/"/>
-        <id>https://gofmhy.me/posts/feb-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/feb-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/feb-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/feb-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/feb-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -1912,10 +1912,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/jan-2025/"/>
-        <id>https://gofmhy.me/posts/jan-2025/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/jan-2025/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/jan-2025/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/jan-2025/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/jan-2025/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2011,10 +2011,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/dec-2024/"/>
-        <id>https://gofmhy.me/posts/dec-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/dec-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/dec-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/dec-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/dec-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2137,10 +2137,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/nov-2024/"/>
-        <id>https://gofmhy.me/posts/nov-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/nov-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/nov-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/nov-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/nov-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2266,10 +2266,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/internet-archive/"/>
-        <id>https://gofmhy.me/posts/internet-archive/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/internet-archive/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/internet-archive/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/internet-archive/">&lt;h4 id=&quot;internet-archive-was-hacked-today-all-31-million-accounts-have-had-their-details-leaked-if-you-have-an-account-its-highly-recommended-to-change-your-password-on-the-site-as-well-as-anywhere-else-you-are-using-the-same-login-details&quot;&gt;Internet Archive was hacked today, all 31 million accounts have had their details leaked. If you have an account its &lt;em&gt;highly&lt;&#x2F;em&gt; recommended to change your password on the site, as well as anywhere else you are using the same login details.&lt;&#x2F;h4&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/internet-archive/">&lt;h4 id=&quot;internet-archive-was-hacked-today-all-31-million-accounts-have-had-their-details-leaked-if-you-have-an-account-its-highly-recommended-to-change-your-password-on-the-site-as-well-as-anywhere-else-you-are-using-the-same-login-details&quot;&gt;Internet Archive was hacked today, all 31 million accounts have had their details leaked. If you have an account its &lt;em&gt;highly&lt;&#x2F;em&gt; recommended to change your password on the site, as well as anywhere else you are using the same login details.&lt;&#x2F;h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;internet-archive-hacked-data-breach-impacts-31-million-users&#x2F;&lt;&#x2F;p&gt;
@@ -2294,10 +2294,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/oct-2024/"/>
-        <id>https://gofmhy.me/posts/oct-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/oct-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/oct-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/oct-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/oct-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2408,10 +2408,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/sept-2024/"/>
-        <id>https://gofmhy.me/posts/sept-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/sept-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/sept-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/sept-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/sept-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2552,10 +2552,10 @@ in seeing all minor changes you can follow our
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/aug-2024/"/>
-        <id>https://gofmhy.me/posts/aug-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/aug-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/aug-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/aug-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/aug-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2728,10 +2728,10 @@ more often than others.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/july-2024/"/>
-        <id>https://gofmhy.me/posts/july-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/july-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/july-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/july-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/july-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -2917,10 +2917,10 @@ and we have better MC launchers listed anyways.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/june-2024/"/>
-        <id>https://gofmhy.me/posts/june-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/june-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/june-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/june-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/june-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -3085,10 +3085,10 @@ they’re adding GPT-4o to the
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/may-2024/"/>
-        <id>https://gofmhy.me/posts/may-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/may-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/may-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/may-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/may-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -3240,10 +3240,10 @@ in Song Identification. Popular song identification tools.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/april-2024/"/>
-        <id>https://gofmhy.me/posts/april-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/april-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/april-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/april-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/april-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -3399,10 +3399,10 @@ slower recently.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/march-2024/"/>
-        <id>https://gofmhy.me/posts/march-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/march-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/march-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/march-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/march-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -3547,10 +3547,10 @@ GitHub.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/feb-2024/"/>
-        <id>https://gofmhy.me/posts/feb-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/feb-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/feb-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/feb-2024/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/feb-2024/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -3730,10 +3730,10 @@ privacy policy is &lt;a href=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;2Wtds7l.pn
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/jan-2024/"/>
-        <id>https://gofmhy.me/posts/jan-2024/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/jan-2024/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/jan-2024/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/jan-2024/">&lt;p&gt;Hi everyone, happy new year! As we bid farewell to ’23, let’s take a moment to
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/jan-2024/">&lt;p&gt;Hi everyone, happy new year! As we bid farewell to ’23, let’s take a moment to
 reflect on the remarkable journey FMHY has had this year:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;We made a new website, enriched with an array of handcrafted features (by me,
@@ -3908,10 +3908,10 @@ we may bring it back.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/dec-2023/"/>
-        <id>https://gofmhy.me/posts/dec-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/dec-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/dec-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/dec-2023/">&lt;p&gt;info
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/dec-2023/">&lt;p&gt;info
 These update threads only contain major updates. If you’re interested
 in seeing all minor changes you can follow our
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fmhy&#x2F;FMHYedit&#x2F;commits&#x2F;main&quot;&gt;Commits Page&lt;&#x2F;a&gt; on GitHub or
@@ -4065,10 +4065,10 @@ history of tracking users.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/new-site/"/>
-        <id>https://gofmhy.me/posts/new-site/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/new-site/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/new-site/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/new-site/">&lt;h3 id=&quot;new-url-https-fmhy-net&quot;&gt;New URL: https:&#x2F;&#x2F;fmhy.net&#x2F;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/new-site/">&lt;h3 id=&quot;new-url-https-fmhy-net&quot;&gt;New URL: https:&#x2F;&#x2F;fmhy.net&#x2F;&lt;&#x2F;h3&gt;
 &lt;p&gt;Hey everyone, just wanted to let you all know that we’re finally done with the
 new website, and are officially launching it today! I know a lot of different
 versions of FMHY have been made over the years, but we’ve put a ton of effort
@@ -4104,10 +4104,10 @@ into the site.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/nov-2023/"/>
-        <id>https://gofmhy.me/posts/nov-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/nov-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/nov-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/nov-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/nov-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -4279,10 +4279,10 @@ it, but a lot of people have lost trust in them now.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/discord/"/>
-        <id>https://gofmhy.me/posts/discord/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/discord/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/discord/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/discord/">&lt;h1 id=&quot;public-url-https-github-com-fmhy-fmhy-wiki-fmhy-discord&quot;&gt;Public URL: https:&#x2F;&#x2F;github.com&#x2F;fmhy&#x2F;FMHY&#x2F;wiki&#x2F;FMHY-Discord&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/discord/">&lt;h1 id=&quot;public-url-https-github-com-fmhy-fmhy-wiki-fmhy-discord&quot;&gt;Public URL: https:&#x2F;&#x2F;github.com&#x2F;fmhy&#x2F;FMHY&#x2F;wiki&#x2F;FMHY-Discord&lt;&#x2F;h1&gt;
 </content>
         
     </entry>
@@ -4299,10 +4299,10 @@ it, but a lot of people have lost trust in them now.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/oct-2023/"/>
-        <id>https://gofmhy.me/posts/oct-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/oct-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/oct-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/oct-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/oct-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -4438,10 +4438,10 @@ domain now.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/sept-2023/"/>
-        <id>https://gofmhy.me/posts/sept-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/sept-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/sept-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/sept-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/sept-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -4614,10 +4614,10 @@ back from people over time.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/aug-2023/"/>
-        <id>https://gofmhy.me/posts/aug-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/aug-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/aug-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/aug-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/aug-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -4765,10 +4765,10 @@ before we can add them again.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/july-2023/"/>
-        <id>https://gofmhy.me/posts/july-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/july-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/july-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/july-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/july-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -4893,10 +4893,10 @@ isn’t enough justification to label it unsafe.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/jun-2023/"/>
-        <id>https://gofmhy.me/posts/jun-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/jun-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/jun-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/jun-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/jun-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -5038,10 +5038,10 @@ with an &lt;a href=&quot;&#x2F;mobile&#x2F;&quot;&gt;auto-build&lt;&#x2F;a&gt; f
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/may-2023/"/>
-        <id>https://gofmhy.me/posts/may-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/may-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/may-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/may-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/may-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -5156,10 +5156,10 @@ slow or dead.&lt;&#x2F;p&gt;
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/april-2023/"/>
-        <id>https://gofmhy.me/posts/april-2023/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/april-2023/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/april-2023/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/april-2023/">&lt;blockquote
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/april-2023/">&lt;blockquote
   class=&quot;markdown-alert&quot;
   style=&quot;
     --alert-title: &#x27;Note&#x27;;
@@ -5267,10 +5267,10 @@ without telling the user it’s been enabled, or how to turn it off.&lt;&#x2F;p&
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://gofmhy.me/posts/search/"/>
-        <id>https://gofmhy.me/posts/search/</id>
+        <link rel="alternate" type="text/html" href="https://hydrafog.github.io/gofmhy/posts/search/"/>
+        <id>https://hydrafog.github.io/gofmhy/posts/search/</id>
         
-        <content type="html" xml:base="https://gofmhy.me/posts/search/">&lt;h3 id=&quot;streamlit-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fmhy-search.streamlit.app&#x2F;&quot;&gt;Streamlit Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://hydrafog.github.io/gofmhy/posts/search/">&lt;h3 id=&quot;streamlit-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fmhy-search.streamlit.app&#x2F;&quot;&gt;Streamlit Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;Search engine hosted on Streamlit&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;fmhy-net-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fmhy.net&#x2F;&quot;&gt;FMHY.net Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;

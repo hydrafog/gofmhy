@@ -73,6 +73,12 @@
     {%- endif %}
     {%- if config.build_search_index -%}
       <li>
+        <button id="theme-toggle" title="Toggle Theme" class="prominent-search theme-toggle-btn">
+          {{- macros_icon::icon(name="sun") -}}
+          {{- macros_icon::icon(name="moon") -}}
+        </button>
+      </li>
+      <li>
         <button id="search" title="{{ macros_translate::translate(key='search', default='Search', language_strings=language_strings) }}" class="prominent-search">
           {{- macros_icon::icon(name="magnifying-glass") -}}
           <span class="search-label">{{ macros_translate::translate(key='search', default='Search', language_strings=language_strings) }}</span>
@@ -93,6 +99,13 @@
           position: relative;
           z-index: 1;
         }
+        .theme-toggle-btn .icon.sun { display: none; }
+        .theme-toggle-btn .icon.moon { display: block; }
+        :root[data-theme="light"] .theme-toggle-btn .icon.sun { display: block; }
+        :root[data-theme="light"] .theme-toggle-btn .icon.moon { display: none; }
+        :root[data-theme="dark"] .theme-toggle-btn .icon.sun { display: none; }
+        :root[data-theme="dark"] .theme-toggle-btn .icon.moon { display: block; }
+
         .prominent-search::before, .prominent-search::after {
           display: none !important; /* Remove any theme-default pseudo elements */
         }

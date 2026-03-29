@@ -1,0 +1,75 @@
+@use "../themes/ametrine/sass/abstracts/variables" as *;
+@use "../themes/ametrine/sass/base/reset";
+@use "../themes/ametrine/sass/base/animations";
+@use "../themes/ametrine/sass/base/base";
+@use "../themes/ametrine/sass/base/typography";
+
+@use "../themes/ametrine/sass/layout/footer";
+@use "../themes/ametrine/sass/layout/full-bleed";
+@use "../themes/ametrine/sass/layout/grid";
+@use "../themes/ametrine/sass/layout/header";
+@use "../themes/ametrine/sass/layout/main-content";
+@use "../themes/ametrine/sass/layout/sidebar";
+
+@use "../themes/ametrine/sass/components/alerts";
+@use "../themes/ametrine/sass/components/article-details";
+@use "../themes/ametrine/sass/components/article-list";
+@use "../themes/ametrine/sass/components/article-nav";
+@use "../themes/ametrine/sass/components/audio";
+@use "../themes/ametrine/sass/components/banner";
+@use "../themes/ametrine/sass/components/buttons";
+@use "../themes/ametrine/sass/components/card";
+@use "../themes/ametrine/sass/components/comments";
+@use "../themes/ametrine/sass/components/crt";
+@use "../themes/ametrine/sass/components/emoji";
+@use "../themes/ametrine/sass/components/external";
+@use "../themes/ametrine/sass/components/footnotes";
+@use "../themes/ametrine/sass/components/giallo";
+@use "../themes/ametrine/sass/components/icon";
+@use "../themes/ametrine/sass/components/iframe";
+@use "../themes/ametrine/sass/components/input";
+@use "../themes/ametrine/sass/components/marquee";
+@use "../themes/ametrine/sass/components/media";
+@use "../themes/ametrine/sass/components/not-found";
+@use "../themes/ametrine/sass/components/overshoot";
+@use "../themes/ametrine/sass/components/pre-container";
+@use "../themes/ametrine/sass/components/search-modal";
+@use "../themes/ametrine/sass/components/skip-to-content";
+@use "../themes/ametrine/sass/components/spoiler";
+@use "../themes/ametrine/sass/components/statements";
+@use "../themes/ametrine/sass/components/table";
+@use "../themes/ametrine/sass/components/tag-chips";
+@use "../themes/ametrine/sass/components/textarea";
+@use "../themes/ametrine/sass/components/title";
+@use "../themes/ametrine/sass/components/tooltip";
+@use "../themes/ametrine/sass/components/visually-hidden";
+@use "../themes/ametrine/sass/components/zola-anchor";
+@use "../themes/ametrine/sass/components/zola-error";
+
+/* 
+   We override the theme's root logic to support manual theme switching.
+   We force dark mode by default if no attribute is set.
+*/
+
+:root {
+  /* Default to dark if no theme is specified */
+  @include variables("dark");
+  @include variables-accent("dark");
+  color-scheme: dark;
+  
+  scroll-behavior: smooth;
+  scrollbar-color: var(--accent-color) transparent;
+  accent-color: var(--accent-color);
+}
+
+:root[data-theme="light"] {
+  @include variables(("light", "common"));
+  @include variables-accent(("light", "common"));
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  @include variables("dark");
+  @include variables-accent("dark");
+  color-scheme: dark;
+}
