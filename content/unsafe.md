@@ -3,9 +3,15 @@ title = "Unsafe"
 +++
 
 To easily see which sites are trusted, and which are unsafe, try the **[FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard)** extension, or simply add our **[Filterlist](https://github.com/fmhy/FMHYFilterlist)** to your adblocker.
+
+***
+
 ### Game Sites
 
 * **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
+
+***
+
 * 🌐 **[Untrusted Sites](https://rentry.org/pgames#untrusted-sites)** / **[Uploaders](https://rentry.org/pgames#untrusted-uploaders)** - More Complete Lists
 * 🌐 **[Fake FitGirl Sites](https://claraiscute.neocities.org/Guides/FakeFitgirlwebsites/)**, [2](https://claraiscute.pages.dev/Guides/FakeFitgirlwebsites/)
 * 🌐 **[Fake ReVanced Sites](https://counterfeits.revanced.app/)**
@@ -18,9 +24,15 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * GameFabrique - IGG uploads + [adware installers](https://claraiscute.neocities.org/Announcements/gamefabrique_adware), [2](https://claraiscute.pages.dev/Announcements/gamefabrique_adware/)
 * SteamUnlocked - [IGG / NosTeam uploads](https://i.ibb.co/VgW2ymY/YUnRNpN.png) + very slow file host
 * game-repack - Shady [fake DL buttons](https://i.ibb.co/tqZSG9M/image.png) / [2](https://i.imgur.com/fbJ16Yq.png) + they remove comments [asking about it](https://i.ibb.co/2qGQQjT/40hzLVh.png) / [2](https://i.imgur.com/40hzLVh.png)
+
+***
+
 ### Software / App Sites
 
 * **Note** - YouTube videos claiming to give away free software are nearly always scams.
+
+***
+
 * GetIntoPC / GetIntoMAC - Caught with [malware](https://www.virustotal.com/gui/file/5af9e89a7bfcfcae1c75de6acb7194b667d13776b61e79ea8aeab95f0af76bc7/), responsible for countless cases of malware at this point
 * SadeemPC / SadeemAPK - Caught with malware multiple times
 * KaranPC - Caught with malware multiple times
@@ -49,9 +61,15 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AppValley / TutuBox / Ignition - History of [DDoS attacks](https://github.com/fmhy/edit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
 * IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
+
+***
+
 ### Torrent Sites / Clients
 
 * **Note** - Torrent aggregators pull results from multiple sites, so it's recommended to avoid using them for software and games.
+
+***
+
 * Kickass Torrents - Official site is long gone, all that remain are sketchy copycats
 * VSTorrent - Caught with [malware](https://redd.it/x66rz2)
 * uTorrent - Considered [adware](https://www.virustotal.com/gui/file/26ffe686650ea56b23834f805f2a449b1ce745702f606a765887a6c3fc2aab09/), pre-adware versions exist, but it's best to use [open source](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) clients
@@ -59,6 +77,9 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
 * [Fake 1337x Sites](https://i.ibb.co/2YHqHmVW/image.png) / [2](https://i.imgur.com/gFZjaVh.png)
+
+***
+
 ### Software / Apps
 
 * Downloadly (video downloader) - Crypto miner
@@ -77,6 +98,9 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [2](https://youtu.be/PcS3EozgyhI)
 * 360 Total Security - Apps give [constant popups](https://wikipedia.org/wiki/Criticism_of_Qihoo_360#Malicious_promotion) to install "toolbox," which itself modifies default apps (like browser) and switches them all to 360 options. The toolbox will also be installed without consent if the repair, optimize, or clean options are used.
 * Watchug / Watchugofficial - Scammers that pretend their domain is for sale, then just block users after they've paid
+
+***
+
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/)
 
 ### [Fake Windows Activators](https://pastebin.com/gCmWs2GR)

@@ -5,10 +5,12 @@ title = "Pollinations Limits"
 #### Pollinations Limits
 
 For chat.pollinations.ai (and the underlying API), the rate limits depend on how you're using it:
-nonymous / Free Tier (No Login)**
+
+**Anonymous / Free Tier (No Login)**
 - **Text/Chat**: ~1 request every **3 seconds** (per IP).
 - **Images**: ~1 request every **5 seconds** (per IP).
-ogged In (Pollen System)**
+
+**Logged In (Pollen System)**
 - Users get a **daily free Pollen allowance** based on their tier.
 - **Publishable Keys (`pk_`)**: Rate limited to prevent abuse (e.g., ~1 pollen/hour per IP).
 - **Secret Keys (`sk_`)**: **No rate limits** (requests run as fast as you can pay for them with Pollen).

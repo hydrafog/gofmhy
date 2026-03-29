@@ -2,15 +2,24 @@
 title = "Sandbox"
 +++
 
-title: Sandbox
 ### Sandbox
-info
+
+{% alert(icon="info", title="Note") %}
 Testing info
-tip
-Testing tip 
-warning
+{% end %}
+
+{% alert(icon="lightbulb", title="Tip") %}
+Testing tip
+{% end %}
+
+{% alert(icon="warning", title="Warning") %}
 Testing warning
-danger
+{% end %}
+
+{% alert(icon="warning-octagon", title="Caution") %}
 Testing danger
-details
+{% end %}
+
+:::details
 Testing details
+:::

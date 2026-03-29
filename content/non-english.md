@@ -3,6 +3,9 @@ title = "Non English"
 +++
 
 * **Note** - Use this section for media (movies, music, books). For installing software, games, or APKs, use the English sections unless the source is highly trusted (e.g., m0nkrus). Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked.
+
+***
+
 # ► Arabic / العربية
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor
@@ -72,6 +75,9 @@ title = "Non English"
 * [Almaany](https://www.almaany.com/) - Multilingual Dictionary
 * [dohadictionary](https://www.dohadictionary.org/) - Historical Dictionary
 * [Mo3jam](https://ar.mo3jam.com) - Colloquial / Slang Dictionary
+
+***
+
 # ► Bangla / বাংলা
 
 * ⭐ **[Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html)** - Bangla Typing Tool / Spellcheck / [WebUI](https://avro.im/)
@@ -105,10 +111,16 @@ title = "Non English"
 * [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
+
+***
+
 ## ▷ Streaming / স্ট্রিমিং
 
 * [Fibwatch](https://fibwatch.art/) - Movies / TV
 * [jadoocinema](https://www.jadoocinema.com/) - Movies / TV / Sub / Dub / 1080p
+
+***
+
 # ► Bulgarian / Български
 
 * [YavkA](https://yavka.net/), [subsunacs](https://subsunacs.net/) or [subs.sab.bz](http://subs.sab.bz/) - Subtitles
@@ -121,6 +133,9 @@ title = "Non English"
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [Filmi7](https://filmi7.net/) - Movies / Sub / Dub
 * [glebul](https://glebul.com/) - Live TV
+
+***
+
 # ► Chinese / 华语
 
 * 🌐 **[heji](https://233heji.com/)** or [bajins](https://www.bajins.com/) - Chinese Sites / Tools Indexes
@@ -161,6 +176,9 @@ title = "Non English"
 ## ▷ Great Firewall
 
 * **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
+
+***
+
 * ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)** / **[Proxy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_proxy)**
 * ⭐ **[Censorship Bypass Guide](https://cbg.fmhy.bid/)** or [Censorship Bypass](https://rentry.co/chinese-censorship-bypass-guide) - Censorship Bypass Guide
 * [gfwlist](https://github.com/gfwlist/gfwlist) - Blocked Sites List
@@ -313,6 +331,9 @@ title = "Non English"
 * [Mangabz](https://www.mangabz.com/) - Manga
 * [Baozimh](https://baozimh.org/) - Manga / Manhua / Manhwa
 * [Baozimh](https://www.baozimh.com/) - Webtoons
+
+***
+
 # ► Czech / Čeština
 
 * [uschovna](https://www.uschovna.cz/) or [posilej](https://posilej.cz/) - Czech File Hosts
@@ -351,11 +372,17 @@ title = "Non English"
 * [eknihovna](https://eknihovna.maxzone.eu/index.html) - Books
 * [prirucka](https://prirucka.ujc.cas.cz) - Dictionaries
 * [WebArchive](https://webarchiv.cz/) - Documents
+
+***
+
 # ► Filipino / Pinoy
 
 ## ▷ Streaming / Nanonood
 
 * [Pinoy Albums](https://pinoyalbums.com/) - Music
+
+***
+
 # ► Finnish / Suomi
 
 * [finna.fi](https://www.finna.fi/) - Media Archive / Requires Library Card
@@ -375,6 +402,9 @@ title = "Non English"
 
 * [Lonnrot](http://www.lonnrot.net/) - Books
 * [HistDoc](https://histdoc.net/) - Historical Finnish Documents
+
+***
+
 # ► French / Français
 
 * 🌐 **[r/FrancePirate Mega](https://redd.it/1od83o4)** - Piracy Megathread / Check Comments / [Subreddit](https://reddit.com/r/FrancePirate/)
@@ -462,6 +492,9 @@ title = "Non English"
 * [lelscanfr](https://lelscanfr.com/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
 * [ORAEDES](https://oraedes.fr/) - Occult / Esoteric
+
+***
+
 # ► German / Deutsch
 
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
@@ -533,6 +566,9 @@ title = "Non English"
 * [Projekt Gutenberg.](https://www.projekt-gutenberg.org/) - Classic German Books
 * [Sagen](https://www.sagen.at/) - European Ethnology / Folklore
 * [deutschelyrik](https://www.deutschelyrik.de/) - Poetry
+
+***
+
 # ► Greek / Ελληνικά
 
 ## ▷ Streaming
@@ -560,6 +596,9 @@ title = "Non English"
 ## ▷ Torrenting
 
 * [AnimEclipse](http://www.animeclipse.com/) - Anime Torrents / [Discord](https://discord.com/invite/VU6UScPPCU)
+
+***
+
 # ► Hebrew / עברית
 
 * [WizdomSubs](https://wizdom.xyz/) or [Ktuvit](https://www.ktuvit.me/) - Subtitles
@@ -581,6 +620,9 @@ title = "Non English"
 ## ▷ Reading / קרוא
 
 * [mangashelf](https://mangashelf.co.il/) - Manga
+
+***
+
 # ► Hungarian / Magyar
 
 * [Turistautak](https://turistautak.hu/) - Hungarian Maps
@@ -598,6 +640,9 @@ title = "Non English"
 
 * [HunTorrent](https://huntorrent.org/) - Movies / TV / Sub / Dub / 1080p
 * [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
+
+***
+
 # ► Indian Languages
 
 * [Ad-Link Bypass Bot](https://t.me/Nick_Bypass_Bot)
@@ -699,6 +744,9 @@ title = "Non English"
 * [Sanskrit Documents](https://sanskritdocuments.org), [sanskritsahitya](https://sanskritsahitya.org/) or [gitasupersite](https://www.gitasupersite.iitk.ac.in/) - Esoteric Texts
 * [Hindwi](https://hindwi.org/) - Hindi Poems
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Jainism Texts
+
+***
+
 # ► Indonesian / Bahasa Indonesia
 
 * [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxies / [DNS](https://github.com/bebasid/bebasdns) / [Script](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
@@ -740,6 +788,9 @@ title = "Non English"
 * [meionovels](https://meionovels.com/) - Light Novels
 * [catatannusantara](https://www.catatannusantara.com/pustaka) - History Books
 * [sastra](https://www.sastra.org/) - History Wiki
+
+***
+
 # ► Italian / Italiano
 
 * 🌐 **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Sites List
@@ -785,6 +836,9 @@ title = "Non English"
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
 * [EFP Fanfiction](https://efpfanfic.net/) - Fanfiction
+
+***
+
 # ► Japanese / 日本語
 
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
@@ -860,6 +914,9 @@ title = "Non English"
 * [welovemanga](https://welovemanga.one/) - Manga
 * [manga1000](https://manga1000.top/) - Manga
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines
+
+***
+
 # ► Korean / 한국어
 
 * ⭐ **[wrtn](https://wrtn.ai/)** - GPT-4 Chatbot / [Android](https://play.google.com/store/apps/details?id=com.wrtn.app) / [iOS](https://apps.apple.com/us/app/%EB%A4%BC%ED%8A%BC-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-ai-%ED%8F%AC%ED%84%B8/id6448556170) / No Sign-Up
@@ -893,9 +950,15 @@ title = "Non English"
 * [kakao](https://page.kakao.com/) - Manga
 * [MangaViewAndroid](https://junheah.github.io/MangaViewAndroid/) - Manga
 * [Namu Wiki](https://namu.wiki/w/나무위키:대문) - Korean Wiki
+
+***
+
 # ► Malay / Bahasa Melayu
 
 * [Lowyat](https://forum.lowyat.net/) - Tech Forum
+
+***
+
 # ► Persian / فارسی
 
 * 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
@@ -934,6 +997,9 @@ title = "Non English"
 ## ▷ Reading / خواندن
 
 * [Afghanistandl](https://afghanistandl.nyu.edu/) - Historical Books
+
+***
+
 # ► Polish / Polski
 
 * [Poland.gg]( https://poland.gg/) - Data & Statistics
@@ -998,9 +1064,15 @@ title = "Non English"
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
 * [Docer PL](https://docer.pl/) - Books
+
+***
+
 # ► Portuguese / Português
 
 * **Note** - Brazil is known for blocking many sites, try using a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) if you can't access one.
+
+***
+
 * 🌐 **[Pirataria Megathread](https://pirataria.link)** - Portuguese /r/Piracy Mega / [Subreddit](https://www.reddit.com/r/pirataria/)
 * 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
 * [SAPO](https://www.sapo.pt) - Search
@@ -1118,6 +1190,9 @@ title = "Non English"
 * [RetroArquivo](https://retroarquivo.wordpress.com) - Portuguese Game Magazines
 * [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
 * [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Wikipedia Parody
+
+***
+
 # ► Romanian / Limba Română
 
 * [arhivabac](https://www.arhivabac.com/) or [pro-matematica](https://www.pro-matematica.ro/) - Romanian Exam Prep
@@ -1147,6 +1222,9 @@ title = "Non English"
 * [DozaAnimată](https://www.dozaanimata.net/) - Anime / Cartoons / Sub / Dub / 720p
 * [Cool TV Online](https://www.cool-etv.net/) - Live TV / Sports
 * [Subs.ro](https://subs.ro/), [Subtitrari](https://www.subtitrari-noi.ro/) or [Titrari](https://www.titrari.ro/) - Subtitles
+
+***
+
 # ► Russian / Русский
 
 * [Ru.Board](https://forum.ru-board.com/) - Piracy Discussion Forum
@@ -1314,6 +1392,9 @@ title = "Non English"
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - Children's Books
 * [Baza Knig](https://baza-knig.ink/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аkniga](https://akniga.org/), [Bibl](https://biblus.in/) - Audiobooks
 * [Science Lab](https://fantlab.ru/) - Sci-Fi Book Discussion
+
+***
+
 # ► Slovak / Slovenčina
 
 ## ▷ Streaming
@@ -1334,6 +1415,9 @@ title = "Non English"
 
 * [pdfknihy](https://pdfknihy.sk/zadarmo/) - Books
 * [eknizky](https://eknizky.sk/) - Books / Requires Sign-Up for Downloads
+
+***
+
 # ► Spanish / Español
 
 * 🌐 **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
@@ -1517,6 +1601,9 @@ title = "Non English"
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [rincondelvago](https://www.rincondelvago.com/) - Academic Documents
 * [cervantesvirtual](https://www.cervantesvirtual.com/portales/literatura/multimedia_videoteca_signada/) - Signed Literature for Deaf Users
+
+***
+
 # ► Swedish / Sverige
 
 * [Eniro](https://www.eniro.se/) - Search
@@ -1527,6 +1614,9 @@ title = "Non English"
 * [SVT Play](https://www.svtplay.se/) - Movies / TV
 * [Filmarkivet](https://www.filmarkivet.se/) - Short Films
 * [Stockholmskallan](https://stockholmskallan.stockholm.se/sok/?cstids=6) - Public Domain Films
+
+***
+
 # ► Thai / ไทย
 
 * [Thai Dictionary](https://dictionary.orst.go.th/)
@@ -1536,6 +1626,9 @@ title = "Non English"
 
 * [kingsmanga](https://www.kingsmanga.net/) - Manga
 * [novels108](https://www.novels108.com/) - Light Novels
+
+***
+
 # ► Turkish / Türkçe
 
 * [Doğruluk Payı](https://www.dogrulukpayi.com/) - News Verification
@@ -1596,6 +1689,9 @@ title = "Non English"
 * [Tortuga-ceviri](https://tortugaceviri.com/) - Manga / [Discord](https://discord.gg/bSxwMNM9mm)
 * [Raindrop](https://www.raindropteamfan.com/) - Manga
 * [Uzaymanga](https://uzaymanga.com/) - Manga
+
+***
+
 # ► Ukrainian / Українська
 
 * [⁠NoWar.help](https://www.nowar.help/) - War Resources / Help
@@ -1617,6 +1713,9 @@ title = "Non English"
 * [UASerials](https://uaserials.pro/) - Movies / TV / Anime
 * [KinoUKR](https://kinoukr.com/) - Movies / TV / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn)
 * [sweet.tv](https://sweet.tv/pl/) - Free w/ Ads / [Login Bypass](https://github.com/Julmik647/sweet-tv-no-login)
+
+***
+
 # ► Uzbek / Ўзбек
 
 ## ▷ Downloading
@@ -1631,6 +1730,9 @@ title = "Non English"
 ## ▷ Reading
 
 * [FaylZona](https://t.me/megadokbot) - Books / Documents / Slides
+
+***
+
 # ► Vietnamese / Việt
 
 * ⭐ **[Voz.vn](https://voz.vn/)**, [VN-Z](https://vn-z.vn/), [TECHRUM.VN](https://www.techrum.vn/) or [WhiteHat.vn](https://whitehat.vn/) - Tech Forum
@@ -1696,6 +1798,9 @@ title = "Non English"
 * [TruyenFull](https://truyenfull.vision/) - Manga / Light Novels
 * [Hako](https://docln.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [Babla](https://www.babla.vn/), [VDict](https://vdict.com/) or [VTuDien](https://vtudien.com/) - Dictionary
+
+***
+
 # ► Other Languages
 
 * 🌐 **[Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)**

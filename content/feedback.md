@@ -1,16 +1,21 @@
 +++
 title = "Feedback"
+description = "Anonymous comments taken from Reddit, Discord, X.com and our feedback system."
+next = false
+prev = false
+lastUpdated = false
+outline = false
 +++
 
-title: Feedback
-description: Anonymous comments taken from Reddit, Discord, X.com and our feedback system.
-next: false
-prev: false
-lastUpdated: false
-outline: false
 ### Feedback
-tip What is this?
+
+{% alert(icon="lightbulb", title="Tip") %}
+What is this?
 These are all anonymous comments taken from Reddit, Discord, X.com and our feedback system. This is why we do it. People are the motivation, equality is the goal.
+{% end %}
+
+***
+
 * *"Your sources have allowed me to give my father whatever shows or movies he asks for. Old stuff from when he was younger and all that. Stuff I wouldn't be able to access otherwise. It means a lot since he had heart surgery in Feb 2020 and cant really do much anymore, so its one of the few ways he can keep himself busy. Thank you."*
 
 * *"Best Wiki ever. Wifey has stage 4 cancer. I am a working joe keeping this household afloat on warehouse wages while supporting our family. Finding this wiki has kept us close to our old way of life for free-fifty, lol! Books for the paperwhite, movies, TV, gaming, education, etc., etc. There is so much here that has enhanced our lives. And I find more in the depths every time I go exploring. Please don't ever quit updating/adding to this library of awesomeness! Anyway, I just wanted to drop an anonymous thank you for everything here. Amazing resource. Happy to have a carefully curated list instead of roaming blind into the internet wilds. You are doing some amazing works here. Basically my homepage now. Infinite Kudos!"*

@@ -1,21 +1,21 @@
 +++
-title = "April 2023"
+title = "Monthly Updates [April]"
+description = "April 2023 updates."
+date = "2023-04-01"
+next = false
+prev = false
+footer = true
 +++
 
-title: Monthly Updates [April]
-description: April 2023 updates.
-date: 2023-04-01
-next: false
 
-prev: false
 
-footer: true
-
-info
+{% alert(icon="info", title="Note") %}
 These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
+{% end %}
+
 ### Wiki Updates
 
 - Added
@@ -36,6 +36,9 @@ in seeing all minor changes you can follow our
 
 
 - Added [New Headers](https://imgur.com/a/YXWUZun) to the subreddit.
+
+---
+
 ### Stars Added ⭐
 
 - Starred [ChatPDF](/ai/#ai-chatbots) in AI Chatbots. AI that turns any book
@@ -61,6 +64,9 @@ in seeing all minor changes you can follow our
 
 - Starred [Flameshot](/image-tools/#screenshot-tools) in Screenshot Tools. Some
   people like this more than ShareX.
+
+---
+
 ### Things Removed
 
 - Removed FTUApps. FTU got caught with [malware](https://redd.it/120xk62) by

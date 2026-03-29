@@ -1,21 +1,21 @@
 +++
-title = "April 2024"
+title = "Monthly Updates [April]"
+description = "April 2024 updates"
+date = "2024-04-01"
+next = false
+prev = false
+footer = true
 +++
 
-title: Monthly Updates [April]
-description: April 2024 updates
-date: 2024-04-01
-next: false
 
-prev: false
 
-footer: true
-
-info
+{% alert(icon="info", title="Note") %}
 These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
+{% end %}
+
 ### Wiki Updates
 
 - Split Android Tools into subsections:
@@ -31,7 +31,7 @@ in seeing all minor changes you can follow our
   [Social Media](https://fmhy.net/mobile#social-media-apps).
 
 - Added [Abandonware](https://fmhy.net/gaming#abandonware),
-(https://fmhy.net/gaming#moba-tools),
+  [MOBA](https://fmhy.net/gaming#moba-tools),
   [Gacha](https://fmhy.net/gaming#gacha-tools),
   [Counter-Strike](https://fmhy.net/gaming#counter-strike-tools),
   [Doom](https://fmhy.net/gaming#doom-tools) and
@@ -58,6 +58,9 @@ in seeing all minor changes you can follow our
 
 - Removed wiki from Saidit. It's our least used version so we're not sure it's
   worth the effort. If enough people want it back we'll reconsider.
+
+---
+
 ### Stars Added ⭐
 
 - Starred [Streamed](https://fmhy.net/video#live-sports) in Live
@@ -99,6 +102,9 @@ in seeing all minor changes you can follow our
 
 - Starred [SmartImage](https://fmhy.net/image-tools#reverse-image-search) in
   Reverse Image Search. Multi-site reverse image search tool.
+
+---
+
 ### Things Removed
 
 - Removed free-mp3-download as they've shut down.

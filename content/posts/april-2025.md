@@ -1,21 +1,21 @@
 +++
-title = "April 2025"
+title = "Monthly Updates [April]"
+description = "April 2025 updates"
+date = "2025-04-01"
+next = false
+prev = false
+footer = true
 +++
 
-title: Monthly Updates [April]
-description: April 2025 updates
-date: 2025-04-01
-next: false
 
-prev: false
 
-footer: true
-
-info
+{% alert(icon="info", title="Note") %}
 These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
+{% end %}
+
 # Wiki Updates
 
 - Added a **[Guide](https://fmhy.net/other/selfhosting)** to set up and run your own instance of FMHY locally.
@@ -33,6 +33,9 @@ in seeing all minor changes you can follow our
 - Better organized font section + split into [Generators](https://fmhy.net/text-tools#font-text-generators) and [Customization](https://fmhy.net/text-tools#font-customization).
 
 - Added a few [New Criteria](https://i.imgur.com/s7UGdIz.png) to our streaming site grading system.
+
+***
+
 # Stars Added ⭐
 
 - Starred [DAB Music Player](https://fmhy.net/audio#download-sites) in Audio DDL. Single-click FLAC album downloads, has web app + desktop apps for Windows, Mac, and Linux, with Android support coming soon.
@@ -52,6 +55,9 @@ in seeing all minor changes you can follow our
 - Replaced star for xManager with [ReVanced Manager](https://fmhy.net/mobile#android-audio) in Ad-Free Spotify as it has more features, fewer issues, and xManager itself recommends it.
 
 - Removed star for Bark as it's limited, and star for Tortoise TTS as it doesn't sound good, and instead starred [TTS Online](https://fmhy.net/ai#text-to-speech), which sounds better and has a 10k daily character limit.
+
+***
+ 
 # Things Removed
 
 - Removed TorrentGalaxy, doesn't look like it's coming back anytime soon sadly.

@@ -1,10 +1,9 @@
 +++
+layout = false
 title = "Startpage"
+pageClass = "startpage-custom-styling"
 +++
 
-layout: false
-title: Startpage
-pageClass: startpage-custom-styling
 
 
 <StartPage />

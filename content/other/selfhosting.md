@@ -1,12 +1,14 @@
 +++
-title = "Selfhosting"
+title = "Selfhosting FMHY"
+description = "This guide will help you set up and run your own instance of FMHY locally."
 +++
 
-title: Selfhosting FMHY
-description: This guide will help you set up and run your own instance of FMHY locally.
 # Selfhosting
-warning
+
+{% alert(icon="warning", title="Warning") %}
 Do note that you **must** differentiate your instance from the official site (fmhy.net) to avoid confusion. Steps to do so are given in step 4.
+{% end %}
+
 This guide will help you set up and run your own instance of FMHY locally.
 
 ### Docker (Experimental)
@@ -91,7 +93,7 @@ To build the project for production:
 pnpm docs:build
 
 # Build the API (if needed) using the Node.js preset
-node pnpm api:build
+NITRO_PRESET=node pnpm api:build
 ```
 
 #### Step 5: Preview Production Build
@@ -137,7 +139,8 @@ npx wrangler kv:namespace create STORAGE
 ```
 
 This command will return a namespace ID. Copy this ID and replace the `id` value in the `[[kv_namespaces]]` section of `wrangler.toml` (line 14).
-ote:** If you want to deploy without running Wrangler locally (e.g., in CI/CD), you'll need to:
+
+**Note:** If you want to deploy without running Wrangler locally (e.g., in CI/CD), you'll need to:
 1. Create the KV namespace manually in the Cloudflare dashboard
 2. Update both the `account_id` and `id` values in `wrangler.toml` in your fork
 

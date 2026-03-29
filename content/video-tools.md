@@ -17,6 +17,9 @@ title = "Video Tools"
 * [⁠MP4Recover](https://github.com/ActiveTK/MP4Recover) - Recover Broken MP4 Files
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [VidClue](https://vidclue.com/) - Short Form Video Inspiration
+
+***
+
 ## ▷ Disc Utilities
 
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [CDBurnerXP](https://cdburnerxp.se/), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
@@ -27,9 +30,15 @@ title = "Video Tools"
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
 * [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
 * [Redump](http://redump.org/) - Disc Preservation Info Project
+
+***
+
 ## ▷ Video File Hosts
 
 * **Note** - Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Account Space / Individual File Limit / File Retention.
+
+***
+
 * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Requires Sign-Up
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
@@ -55,6 +64,9 @@ title = "Video Tools"
 * [webmshare](https://webmshare.com/) - WebM & GIF Hosting / 20MB / Forever
 * [Videy](https://videy.co/) - 100MB / MP4 Only
 * [⁠SpectrShare](https://spectrshare.com/) - P2P Video Streaming / Temp Files
+
+***
+
 ## ▷ Screen Recording
 
 * ⭐ **[OBS Studio](https://obsproject.com/)** / Windows, Mac, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
@@ -70,6 +82,9 @@ title = "Video Tools"
 * [RecordScreen](https://recordscreen.io/) / Web
 * [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) / Web
 * [⁠Cursorful](https://cursorful.com/) - Browser Screen Recording
+
+***
+
 ## ▷ Processing / Encoding
 
 * ⭐ **[HandBrake](https://handbrake.fr/)** or [VidCoder](https://vidcoder.net/) - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/HandBrake/HandBrake) / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
@@ -90,6 +105,9 @@ title = "Video Tools"
 * [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automate Video Processing / Windows, Mac, Linux
 * [selur](https://www.selur.de/) - Video Encoding / Windows, Linux
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
+
+***
+
 ## ▷ Online Processing
 
 * [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
@@ -103,6 +121,9 @@ title = "Video Tools"
 * [Video Express Converter](https://vc.germanov.dev/)
 * [VideoConverter](https://www.movavi.com/video-converter/) - Converter
 * [Restream Tools](https://restream.io/tools) - Converter
+
+***
+
 ## ▷ FFmpeg Tools
 
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
@@ -113,6 +134,9 @@ title = "Video Tools"
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
 * [FFmpeg Batch](https://ffmpeg-batch.sourceforge.io/) - Bulk Conversion Tools
+
+***
+
 ## ▷ Live Streaming
 
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
@@ -135,6 +159,9 @@ title = "Video Tools"
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
+
+***
+
 ## ▷ VTuber Tools
 
 * 🌐 **[Runa's Archive](https://kekuwi.github.io/Runa-Archive)** - VTuber Resources / [Discord](https://discord.com/invite/GdfHVZ6Z33)
@@ -147,9 +174,21 @@ title = "Video Tools"
 * [veadotube](https://olmewe.itch.io/veadotube-mini) or [TransTube](https://girkovarpa.itch.io/transtube) - PNGTuber & Reactive Software
 * [avatarify-python](https://github.com/alievk/avatarify-python) - Real-Time Photo / Video Avatars
 * [VTuberized Logos](https://vtuber-style-logos.vercel.app/) - VTuber Style Logos
+
+***
+
 ## ▷ [Subtitle Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_subtitle_tools)
+
+***
+
 ## ▷ [Linux Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)
+
+***
+
 ## ▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
+
+***
+
 # ► Video Players
 
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
@@ -177,6 +216,9 @@ title = "Video Tools"
 * [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
+
+***
+
 ## ▷ Stream Sync
 
 * ⭐ **[Synkplay](https://syncplay.pl/)** - App
@@ -195,6 +237,9 @@ title = "Video Tools"
 * [baked.live](https://baked.live/) - Online Player
 * [Rave.io](https://rave.io/) - Online Extension
 * [MovieNight](https://github.com/zorchenhimer/MovieNight) / [Discord](https://discord.gg/F2VSgjJ) - Docker
+
+***
+
 ## ▷ MPV Tools
 
 * 🌐 **[⁠Awesome-MPV](https://github.com/stax76/awesome-mpv)** - MPV Tools / Resources
@@ -216,11 +261,17 @@ title = "Video Tools"
 * [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5) or [CAS](https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6) - AMD FidelityFX port
 * [MPV Prescalers](https://github.com/bjin/mpv-prescalers/) - NNEDI / RAVU Upscaling
 * [GLSL CFL Prediction](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction) - Chroma Upscaling
+
+***
+
 ## ▷ VLC Tools
 
 * 🌐 **[Awesome VLC](https://github.com/mfkl/awesome-vlc)** - VLC Resources
 * [VLSub](https://github.com/exebetche/vlsub) - Sub Downloader
 * [VLC Slow Seek Fix](https://redd.it/os6f1q)
+
+***
+
 # ► Media Servers
 
 * ↪️ **[Torrent Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
@@ -257,6 +308,9 @@ title = "Video Tools"
 * [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) or [⁠tuliprox](https://github.com/euzu/tuliprox) - IPTV Playlist Managers for Servers
 * [YTDL-Sub](https://ytdl-sub.readthedocs.io/en/) - Add YouTube Channels to Media Servers / [GitHub](https://github.com/jmbannon/ytdl-sub)
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy
+
+***
+
 ## ▷ Plex Tools
 
 * [Reddit Guide](https://redd.it/ma1hlm) - Plex Setup Guides
@@ -268,6 +322,9 @@ title = "Video Tools"
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels
 * [Overseerr](https://overseerr.dev/) - User Requests / [IMDb Extension](https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij)
 * [Pasta Tool](https://www.pastatool.com/) - Audio / Sub Changer
+
+***
+
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
@@ -281,6 +338,9 @@ title = "Video Tools"
 * [Jellyfin Customization Guide](https://youtu.be/F85qMyBeiDI)
 * [Jellyfin Themes](https://jellyfin.org/docs/general/clients/css-customization/#community-themes)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Discord Rich Presence
+
+***
+
 ## ▷ Kodi Tools
 
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
@@ -294,6 +354,9 @@ title = "Video Tools"
 * [IPTV Client](https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client)
 * [Simkl](https://simkl.com/) - Media Tracker
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
+
+***
+
 # ► Video Download
 
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
@@ -318,6 +381,9 @@ title = "Video Tools"
 * [Piner](https://piner.io/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [⁠cat-catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
+
+***
+
 # ► Video Editing
 
 * ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
@@ -325,6 +391,9 @@ title = "Video Tools"
 * ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Enhancr](https://github.com/mafiosnik777/enhancr), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
+
+***
+
 ## ▷ Video Editors
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
@@ -351,6 +420,9 @@ title = "Video Tools"
 * [suckless-cut](https://github.com/couleur-tweak-tips/suckless-cut) or [vidcutter](https://github.com/ozmartian/vidcutter) - Cut / Trim Videos
 * [Opus](https://www.opus.pro/) - Clip Creator
 * [Kurku](https://app.kurku.tech/) or [FreeMoCap](https://freemocap.org/) - Motion Tracking Tools
+
+***
+
 ## ▷ Online Editors
 
 * ⭐ **[wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
@@ -371,6 +443,9 @@ title = "Video Tools"
 * [Crossfade](https://crossfade.io/) - Video / Audio Crossfading
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Convert2Video](https://convert2video.com/) - Image / Audio to Video
+
+***
+
 ## ▷ Effects / Enhancements
 
 * ⭐ **[Efecto](https://efecto.app/)** or [effect.app](https://effect.app/) - Online Video Effects
@@ -383,6 +458,9 @@ title = "Video Tools"
 * [blur](https://github.com/f0e/blur) or [Smoothie](https://github.com/couleur-tweak-tips/smoothie-rs) - Add Motion Blur to Videos / [Tutorial](https://youtu.be/16-KU4r3BcA)
 * [ProPainter](https://github.com/sczhou/ProPainter) - Video Inpainting
 * [CorridorKey](https://github.com/nikopueringer/CorridorKey) - AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / [GUI](https://github.com/edenaion/EZ-CorridorKey/) / [Discord](https://discord.gg/zvwUrdWXJm)
+
+***
+
 ## ▷ VFX Sites
 
 * [FootageCrate](https://footagecrate.com/)
@@ -399,6 +477,9 @@ title = "Video Tools"
 * [AERiver](https://aeriver.com/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
 * [Intro HD](https://intro-hd.net/) - After Effects
+
+***
+
 ## ▷ Animation Tools
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
@@ -432,6 +513,9 @@ title = "Video Tools"
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Talking Face Avatar](https://github.com/Yazdi9/Talking_Face_Avatar) - Talking Avatar Generator
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
+
+***
+
 ## ▷ Stock Videos
 
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#videos)** or **[CuteStockFootage](https://cutestockfootage.com/free/video)** - Stock Video Indexes

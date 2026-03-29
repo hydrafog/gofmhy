@@ -1,21 +1,21 @@
 +++
-title = "March 2024"
+title = "Monthly Updates [March]"
+description = "March 2024 Updates"
+date = "2024-03-01"
+next = false
+prev = false
+footer = true
 +++
 
-title: Monthly Updates [March]
-description: March 2024 Updates
-date: 2024-03-01
-next: false
 
-prev: false
 
-footer: true
-
-info 
+{% alert(icon="info", title="Note") %}
 These update threads only contain major updates. If you're interested
 in seeing all minor changes you can follow our
 [Commits Page](https://github.com/fmhy/FMHYedit/commits/main) on GitHub or
 [Updates Channel](https://redd.it/17f8msf) in Discord.
+{% end %}
+
 ### Wiki Updates
 
 - Added custom search engines (CSE) for
@@ -48,24 +48,27 @@ in seeing all minor changes you can follow our
   [Design Assets](https://fmhy.net/image-tools#free-assets) in Image Tools.
 
 - Our Minecraft Server is now live. Click
-here](https://fmhy.net/posts/minecraft-server)** to join.
+  **[here](https://fmhy.net/posts/minecraft-server)** to join.
+
+---
+
 ### Stars Added ⭐
 
 - Starred
   [yet another music server](https://fmhy.net/audio#audio-downloading)
   in Audio Downloading. Multi-site DDL (Deezer, Qobuz, Tidal, Spotify, YouTube,
-).
+  FLAC).
 
 - Starred [wrtn](https://fmhy.net/ai#online-chatbots) in Online Chatbots. No-limit
-tell it to always talk in English.
+  GPT-4; tell it to always talk in English.
 
 - Starred
-ree + YesMovies](https://fmhy.net/video#streaming-sites) in
+  [M4UFree + YesMovies](https://fmhy.net/video#streaming-sites) in
   Streaming. Both have huge libraries, fast 1080p, and have been around for over
   a decade.
 
 - Starred [Poe](https://fmhy.net/ai#online-generators) in Image Generators. 100
-and 100 Playground gens.
+  SDXL and 100 Playground gens.
 
 - Starred
   [Simply Optimized](https://fmhy.net/storage#minecraft-optimization-mods) in
@@ -86,6 +89,9 @@ and 100 Playground gens.
 
 - Starred [RatS](https://fmhy.net/video#tracking-discovery) in
   Tracking / Discovery. Sync media ratings between sites.
+
+---
+
 ### Things Removed
 
 - Removed Vendetta from Android as the devs have

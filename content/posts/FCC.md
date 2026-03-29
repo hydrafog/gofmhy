@@ -1,15 +1,12 @@
 +++
-title = "Fcc"
+title = "Fight Chat Control 🔒"
+description = "Protect EU Digital Privacy"
+date = "2025-09-04"
+next = false
+prev = false
+footer = true
 +++
 
-title: Fight Chat Control 🔒
-description: Protect EU Digital Privacy
-date: 2025-09-04
-next: false
-
-prev: false
-
-footer: true
 
 
 ### The EU (still) wants to scan your private messages and photos.

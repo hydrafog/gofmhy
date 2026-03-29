@@ -1,15 +1,12 @@
 +++
-title = "New Site"
+title = "New Website"
+description = "Our brand new site (which you're on currently)"
+date = "2023-11-12"
+next = false
+prev = false
+footer = true
 +++
 
-title: New Website
-description: Our brand new site (which you're on currently)
-date: 2023-11-12
-next: false
-
-prev: false
-
-footer: true
 
 
 ### New URL: https://fmhy.net/
@@ -22,6 +19,9 @@ into this one, and honestly feel like its the best version to date.
 We really hope you enjoy it, and if you have any issues or suggestions feel free
 to leave them in the comments here, or by using the new feedback system built
 into the site.
+
+---
+
 ### Site Features
 
 - Star Only Toggle
