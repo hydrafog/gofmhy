@@ -1,0 +1,5 @@
++++
+title = "Hagezi"
++++
+
+Note that Hagezi does have a Anti-Piracy Blocklist, but it is totally optional, and is [disabled by default](https://i.ibb.co/mrpsX6KK/image.png) / [2](https://i.imgur.com/EXTbohV.png) in all of their blocklist versions.

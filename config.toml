@@ -1,0 +1,94 @@
+title = "gofmhy"
+base_url = "https://gofmhy.me"
+description = "The largest collection of free stuff on the internet!"
+theme = "ametrine"
+
+compile_sass = true
+minify_html = true
+build_search_index = true
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
+
+default_language = "en"
+
+taxonomies = [
+  { name = "tags", feed = true, paginate_by = 10 },
+  { name = "categories", feed = true },
+]
+
+[markdown]
+smart_punctuation = true
+bottom_footnotes = true
+external_links_class = "external"
+github_alerts = true
+
+[markdown.highlighting]
+style = "class"
+light_theme = "monokai-pro-light"
+dark_theme = "monokai-pro"
+extra_themes = [
+  "themes/ametrine/giallo/themes/monokai-pro-light.json",
+  "themes/ametrine/giallo/themes/monokai-pro.json",
+]
+
+[extra]
+accent_color = ["blue", "purple"]
+source_url = "https://github.com/hydrafog/gofmhy"
+show_reading_time = true
+copy_button = true
+
+categories = [
+  { name = "Wiki", description = "Main FMHY Wiki pages.", color = "blue", icon = "book" },
+  { name = "Updates", description = "Monthly site updates.", color = "purple", icon = "newspaper" },
+]
+
+[extra.meta]
+favicon = "favicon.ico"
+apple_touch_icon = "pwa_icon.png"
+card = "og.png"
+
+[extra.nav]
+icon = "pwa_icon.png"
+links = [
+  { url = "@/_index.md", name = "Home", icon = "house" },
+  { url = "@/beginners-guide.md", name = "Beginners Guide", icon = "book" },
+  { url = "@/posts/_index.md", name = "Posts", icon = "newspaper" },
+  { url = "@/notes/_index.md", name = "Notes", icon = "notepad" },
+  { name = "Categories", icon = "list", category = [
+    { url = "@/privacy.md", name = "Adblocking / Privacy", icon = "shield-check", details = "Learn how to block ads, trackers and other nasty things." },
+    { url = "@/ai.md", name = "Artificial Intelligence", icon = "robot", details = "Explore the world of AI and machine learning." },
+    { url = "@/video.md", name = "Streaming", icon = "television", details = "Stream, download, torrent and binge all your favourite movies and shows!" },
+    { url = "@/audio.md", name = "Listening", icon = "music-notes", details = "Stream, download and torrent songs, podcasts and more!" },
+    { url = "@/gaming.md", name = "Gaming", icon = "game-controller", details = "Download and play all your favourite games or emulate some old but gold ones!" },
+    { url = "@/reading.md", name = "Reading", icon = "book-open", details = "Whether you're a bookworm, otaku or comic book fan, you'll be able to find your favourite pieces of literature here!" },
+    { url = "@/downloading.md", name = "Downloading", icon = "download", details = "Download all your favourite software, movies, shows, music, games and more!" },
+    { url = "@/torrenting.md", name = "Torrenting", icon = "magnet", details = "Download your favourite media using the BitTorrent protocol." },
+    { url = "@/educational.md", name = "Educational", icon = "graduation-cap", details = "Educational content for all ages." },
+    { url = "@/mobile.md", name = "Android / iOS", icon = "device-mobile", details = "All forms of content for Android and iOS." },
+    { url = "@/linux-macos.md", name = "Linux / macOS", icon = "linux-logo", details = "The $HOME of Linux and macOS." },
+    { url = "@/non-english.md", name = "Non-English", icon = "translate", details = "Content in languages other than English." },
+    { url = "@/misc.md", name = "Miscellaneous", icon = "dots-three-outline", details = "Various topics like food, travel, news, shopping, fun sites and more!" },
+  ]},
+  { name = "Tools", icon = "wrench", category = [
+    { url = "@/system-tools.md", name = "System Tools", icon = "desktop" },
+    { url = "@/file-tools.md", name = "File Tools", icon = "folder" },
+    { url = "@/internet-tools.md", name = "Internet Tools", icon = "globe" },
+    { url = "@/social-media-tools.md", name = "Social Media Tools", icon = "share-network" },
+    { url = "@/text-tools.md", name = "Text Tools", icon = "text-t" },
+    { url = "@/gaming-tools.md", name = "Gaming Tools", icon = "game-controller" },
+    { url = "@/image-tools.md", name = "Image Tools", icon = "image" },
+    { url = "@/video-tools.md", name = "Video Tools", icon = "video-camera" },
+    { url = "@/audio.md", name = "Audio Tools", icon = "music-notes-simple" },
+    { url = "@/educational.md", name = "Educational Tools", icon = "student" },
+    { url = "@/developer-tools.md", name = "Developer Tools", icon = "code" },
+  ]},
+]
+
+[extra.footer]
+copyright = "© gofmhy, $YEAR"
+show_powered_by = true
+show_source = true
+show_timestamp = false
+socials = [
+  { url = "https://github.com/hydrafog/gofmhy", icon = "github" },
+]

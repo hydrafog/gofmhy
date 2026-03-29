@@ -1,0 +1,33 @@
+{% macro link(link, lang, link_url, link_external=false, link_active=false, after_active=false) %}
+
+{# Link classes #}
+{%- set link_classes = [""] -%}
+{%- if link_external -%}
+  {%- set link_classes = link_classes | concat(with="external") -%}
+{%- endif -%}
+{%- if link.new -%}
+  {%- set link_classes = link_classes | concat(with="new") -%}
+{%- endif -%}
+
+{%- set link_classes = link_classes | join(sep=" ") -%}
+
+{%- if not link_external and not link_active -%}
+  {%- if after_active -%}
+    {%- set link_url = link_url ~ "#↓" -%}
+  {%- else -%}
+    {%- set link_url = link_url ~ "#↑" -%}
+  {%- endif -%}
+{%- endif -%}
+
+<li>
+  <a href="{{ link_url }}" {% if link_active %}aria-current="page"{% endif %} class="{{ link_classes }}">
+    {%- if link.icon -%}
+      {{- macros_icon::icon(name=link.icon) -}}
+    {%- else -%}
+      <i class="icon fallback">{{ link.name | truncate(length=2, end="") }}</i>
+    {%- endif -%}
+    {{- link.name -}}
+  </a>
+</li>
+
+{% endmacro link %}

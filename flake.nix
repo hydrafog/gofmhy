@@ -19,6 +19,7 @@
           nodejs
           pnpm
           git
+          zola
         ];
       };
     });
