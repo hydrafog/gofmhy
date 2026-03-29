@@ -5,25 +5,25 @@ template = "index.html"
 no_header = true
 +++
 
-# Freemediaheckyeah
+# gofmhy
 The largest collection of free stuff on the internet!
 
 <div class="buttons centered big">
-  <a class="suggested" href="/beginners-guide/">Beginners Guide →</a>
-  <a href="/posts/">Updates →</a>
+  <a class="suggested" href="{{ get_url(path='@/beginners-guide.md') }}">Beginners Guide →</a>
+  <a href="{{ get_url(path='@/posts/_index.md') }}">Updates →</a>
 </div>
 
 ## Categories
-- [Adblocking / Privacy](/privacy)
-- [Artificial Intelligence](/ai)
-- [Streaming](/video)
-- [Listening](/audio)
-- [Gaming](/gaming)
-- [Reading](/reading)
-- [Downloading](/downloading)
-- [Torrenting](/torrenting)
-- [Educational](/educational)
-- [Android / iOS](/mobile)
-- [Linux / macOS](/linux-macos)
-- [Non-English](/non-english)
-- [Miscellaneous](/misc)
+- [Adblocking / Privacy]({{ get_url(path='@/privacy.md') }})
+- [Artificial Intelligence]({{ get_url(path='@/ai.md') }})
+- [Streaming]({{ get_url(path='@/video.md') }})
+- [Listening]({{ get_url(path='@/audio.md') }})
+- [Gaming]({{ get_url(path='@/gaming.md') }})
+- [Reading]({{ get_url(path='@/reading.md') }})
+- [Downloading]({{ get_url(path='@/downloading.md') }})
+- [Torrenting]({{ get_url(path='@/torrenting.md') }})
+- [Educational]({{ get_url(path='@/educational.md') }})
+- [Android / iOS]({{ get_url(path='@/mobile.md') }})
+- [Linux / macOS]({{ get_url(path='@/linux-macos.md') }})
+- [Non-English]({{ get_url(path='@/non-english.md') }})
+- [Miscellaneous]({{ get_url(path='@/misc.md') }})
