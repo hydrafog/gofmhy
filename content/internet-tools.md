@@ -568,7 +568,7 @@ title = "Internet Tools"
 * [Pearltrees](https://www.pearltrees.com/)
 * [Nextcloud](https://apps.nextcloud.com/apps/bookmarks)
 * [Cling](https://cling.com/)
-* [FMHY Startpage](https://fmhy.net/startpage)
+* [FMHY Startpage](https://gofmhy.tech/startpage)
 * [Symbaloo](https://www.symbaloo.com/)
 * [Tixio](https://tixio.io/)
 * [Bento](https://github.com/migueravila/Bento)
@@ -604,7 +604,7 @@ title = "Internet Tools"
 
 * 🌐 **[Browser Comparisons](https://privacytests.org/)**, [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) or [ATH Comparisons](https://browsers.avoidthehack.com/) - Compare Popular Browsers
 * 🌐 **[Desktop Browser List](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
-* ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
+* ↪️ **[Recommended Browsers](https://gofmhy.tech/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * [⁠Browser Tamer](https://www.aloneguid.uk/projects/bt/) - Multi-Browser Link Redirector & Profile Switcher / [GitHub](https://github.com/aloneguid/bt)

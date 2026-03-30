@@ -7,7 +7,7 @@ description = "A List Of Questions And Answers Related To FMHY."
 
 **Q**: Why are there so few subreddit posts? *Is the sub dead?* :(
 
-**A**: Posting has always been off as Reddit is where we make announcements. Our main focus is the **[Website](https://fmhy.net/)**, which has grown to include nearly 30k links. **It's 100% alive**, and gets updated [daily](https://redd.it/1pl8vl0). For a discussion sub, check out /r/Piracy, or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) on Fridays.
+**A**: Posting has always been off as Reddit is where we make announcements. Our main focus is the **[Website](https://gofmhy.tech/)**, which has grown to include nearly 30k links. **It's 100% alive**, and gets updated [daily](https://redd.it/1pl8vl0). For a discussion sub, check out /r/Piracy, or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) on Fridays.
 ***
 **Q**: Are the sites here safe to use?
 

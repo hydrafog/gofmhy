@@ -15,7 +15,7 @@ Search engine hosted on Streamlit
 
 ---
 
-### [FMHY.net Search](https://fmhy.net/)
+### [FMHY.net Search](https://gofmhy.tech/)
 
 Search engine hosted on FMHY.net
 
@@ -45,7 +45,7 @@ Search the Markdown via a Python script
 
 ---
 
-### [Raw Markdown](https://api.fmhy.net/single-page)
+### [Raw Markdown](https://api.gofmhy.tech/single-page)
 
 Search the Markdown manually (Ctrl+F)
 
@@ -59,4 +59,4 @@ FMHY Dupe Check Tool
 
 ### Search Page Backups
 
-[FMHY.net](https://fmhy.net/posts/search) / [Reddit](https://redd.it/105xraz)
+[FMHY.net](https://gofmhy.tech/posts/search) / [Reddit](https://redd.it/105xraz)

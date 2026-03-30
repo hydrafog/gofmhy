@@ -165,5 +165,5 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)** / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
-* **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
-* **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
+* **[Unsafe Sites / Software](https://gofmhy.tech/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
+* **[FMHY.net](https://gofmhy.tech/)** - Our website with many more sites / tools

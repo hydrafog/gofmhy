@@ -71,7 +71,7 @@ title = "Gaming Tools"
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - Overclocking Tool / Hardware Monitor / Avoid Norton 360 in Installer
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search), **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/optiscaler/OptiScaler) - Game Upscaling
+* ⭐ **[Lossless Scaling](https://gofmhy.tech/gaming#download-games)** (search), **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/optiscaler/OptiScaler) - Game Upscaling
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com) - Game Setting Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides

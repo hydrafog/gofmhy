@@ -6,13 +6,13 @@ fficial Website / Source**
 
 Official website, mirrors, GitHub, markdown, and a selfhosting guide.
 
-* **[FMHY.net](https://fmhy.net/)** - Main Website
+* **[FMHY.net](https://gofmhy.tech/)** - Main Website
 * [fmhyclone](https://fmhyclone.pages.dev/) - Official Mirror
 * [fmhy.pages.dev](https://fmhy.pages.dev/) - Official Mirror
 * [GitHub Source](https://github.com/fmhy/edit) - Official GitHub Source Repo
-* [Selfhosting Guide](https://fmhy.net/other/selfhosting) - Run FMHY Locally
+* [Selfhosting Guide](https://gofmhy.tech/other/selfhosting) - Run FMHY Locally
 * [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip) - Raw .zip Archive
-* [Markdown Page](https://api.fmhy.net/single-page) (Mirrors: [2](https://fmhyapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
+* [Markdown Page](https://api.gofmhy.tech/single-page) (Mirrors: [2](https://fmhyapi.wispy.qzz.io/single-page)) - Entire Markdown on Single Page
 
 ***
 
@@ -45,4 +45,4 @@ Official mirrors and alternative ways to view FMHY.
 
 **Backup Page Backups**
 
-[FMHY.net](https://fmhy.net/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+[FMHY.net](https://gofmhy.tech/other/backups) / [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)

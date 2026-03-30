@@ -23,71 +23,71 @@ in seeing all minor changes you can follow our
   [Fonts](https://cse.google.com/cse?cx=82154ebab193e493d).
 
 - Added a section for
-  [Productivity Tools](https://fmhy.net/misc#productivity-tools) in Useful
+  [Productivity Tools](https://gofmhy.tech/misc#productivity-tools) in Useful
   Sites.
 
-- Added a section for [File Recovery](https://fmhy.net/file-tools#file-recovery)
+- Added a section for [File Recovery](https://gofmhy.tech/file-tools#file-recovery)
   in File Tools.
 
 - Added a section for
-  [Fingerprinting / Tracking](https://fmhy.net/privacy#fingerprinting-tracking)
+  [Fingerprinting / Tracking](https://gofmhy.tech/privacy#fingerprinting-tracking)
   in Privacy.
 
 - Added sections for
-  [Mario Kart](https://fmhy.net/gaming#mario-kart-tools) +
-  [Geometry Dash](https://fmhy.net/gaming#geometry-dash-tools) in
+  [Mario Kart](https://gofmhy.tech/gaming#mario-kart-tools) +
+  [Geometry Dash](https://gofmhy.tech/gaming#geometry-dash-tools) in
   Gaming.
 
 - Added a section for
-  [Crypto / Bitcoin](https://fmhy.net/misc#crypto-bitcoin) in Career.
+  [Crypto / Bitcoin](https://gofmhy.tech/misc#crypto-bitcoin) in Career.
 
-- Added a section for [Raspberry Pi](https://fmhy.net/linux-macos#raspberry-pi) in
+- Added a section for [Raspberry Pi](https://gofmhy.tech/linux-macos#raspberry-pi) in
   Linux.
 
-- Added sections for [Design Apps](https://fmhy.net/image-tools#design-apps) +
-  [Design Assets](https://fmhy.net/image-tools#free-assets) in Image Tools.
+- Added sections for [Design Apps](https://gofmhy.tech/image-tools#design-apps) +
+  [Design Assets](https://gofmhy.tech/image-tools#free-assets) in Image Tools.
 
 - Our Minecraft Server is now live. Click
-  **[here](https://fmhy.net/posts/minecraft-server)** to join.
+  **[here](https://gofmhy.tech/posts/minecraft-server)** to join.
 
 ---
 
 ### Stars Added ⭐
 
 - Starred
-  [yet another music server](https://fmhy.net/audio#audio-downloading)
+  [yet another music server](https://gofmhy.tech/audio#audio-downloading)
   in Audio Downloading. Multi-site DDL (Deezer, Qobuz, Tidal, Spotify, YouTube,
   FLAC).
 
-- Starred [wrtn](https://fmhy.net/ai#online-chatbots) in Online Chatbots. No-limit
+- Starred [wrtn](https://gofmhy.tech/ai#online-chatbots) in Online Chatbots. No-limit
   GPT-4; tell it to always talk in English.
 
 - Starred
-  [M4UFree + YesMovies](https://fmhy.net/video#streaming-sites) in
+  [M4UFree + YesMovies](https://gofmhy.tech/video#streaming-sites) in
   Streaming. Both have huge libraries, fast 1080p, and have been around for over
   a decade.
 
-- Starred [Poe](https://fmhy.net/ai#online-generators) in Image Generators. 100
+- Starred [Poe](https://gofmhy.tech/ai#online-generators) in Image Generators. 100
   SDXL and 100 Playground gens.
 
 - Starred
-  [Simply Optimized](https://fmhy.net/storage#minecraft-optimization-mods) in
+  [Simply Optimized](https://gofmhy.tech/storage#minecraft-optimization-mods) in
   Minecraft Optimization. Some prefer this to Fabulously Optimized.
 
-- Starred [SolidTorrents](https://fmhy.net/torrenting#aggregators) in
+- Starred [SolidTorrents](https://gofmhy.tech/torrenting#aggregators) in
   Torrent Aggregators.
 
-- Starred [MrGamingStreams](https://fmhy.net/video#live-tv-sports) in
+- Starred [MrGamingStreams](https://gofmhy.tech/video#live-tv-sports) in
   Live TV. Fast streams, nice UI, no ads.
 
-- Starred [720pier](https://fmhy.net/video#sports-streaming) in
+- Starred [720pier](https://gofmhy.tech/video#sports-streaming) in
   Sports Streaming. Sport replay torrents.
 
 - Starred
-  [Enhancer for YT](https://fmhy.net/social-media-tools#youtube-customization)
+  [Enhancer for YT](https://gofmhy.tech/social-media-tools#youtube-customization)
   in YouTube Customization. YouTube enhancement extension.
 
-- Starred [RatS](https://fmhy.net/video#tracking-discovery) in
+- Starred [RatS](https://gofmhy.tech/video#tracking-discovery) in
   Tracking / Discovery. Sync media ratings between sites.
 
 ---

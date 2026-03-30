@@ -39,7 +39,7 @@ title = "Text Tools"
 * [Text.is](https://text.is/) - Markdown Support
 * [Yasosu](https://yaso.su/) - Multi-Syntax / Markdown Support / [Telegram](https://t.me/yaso_updates)
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
-* [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
+* [snowbin](https://pastes.gofmhy.tech/), [2](https://paste.gofmhy.tech/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [⁠Ghostbin](https://ghostbin.co/) - Multi-Syntax / Markdown Support
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support

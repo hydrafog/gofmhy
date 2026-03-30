@@ -27,7 +27,7 @@ export default defineEventHandler(async (event) => {
   )
   const env = useRuntimeConfig(event)
 
-  const pageURL = `https://fmhy.net${page}`
+  const pageURL = `https://gofmhy.tech${page}`
   const fields = [
     {
       name: 'Page',

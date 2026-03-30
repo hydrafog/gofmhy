@@ -88,7 +88,7 @@ title = "Image Tools"
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Online
 * [Ilaria_Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling / Online
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
-* [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
+* [Lossless Scaling](https://gofmhy.tech/gaming#download-games) (search) - Image Upscaling
 * [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Image Upscaling
 * [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Online
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling / Video Upscaling / Denoising / Self-Hosted
