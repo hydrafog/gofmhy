@@ -1,3 +1,4 @@
+# Force trigger
 name: Deploy Zola to GitHub Pages
 
 on:
