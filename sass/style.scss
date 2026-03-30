@@ -57,10 +57,14 @@
   @include variables(("dark", "common"));
   @include variables-accent(("dark", "common"));
   color-scheme: dark;
-  
+
   scroll-behavior: smooth;
   scrollbar-color: var(--accent-color) transparent;
   accent-color: var(--accent-color);
+}
+
+@view-transition {
+  navigation: auto;
 }
 
 :root[data-theme="light"] {
@@ -77,13 +81,15 @@
 
 /* Mobile optimizations for buttons */
 @media (max-width: 600px) {
+
   .buttons a,
   a.button,
   button,
   .prominent-search {
     padding: 0.75rem 1.25rem !important;
     font-size: var(--font-size-medium) !important;
-    min-height: 44px; /* Better touch target */
+    min-height: 44px;
+    /* Better touch target */
     display: inline-flex !important;
     align-items: center;
     justify-content: center;
@@ -92,8 +98,8 @@
   .buttons.big a,
   .buttons.big button {
     padding: 1rem 2rem !important;
-    width: 100%; /* Make main CTA buttons full width on mobile */
+    width: 100%;
+    /* Make main CTA buttons full width on mobile */
     margin-bottom: 0.5rem;
   }
 }
-
