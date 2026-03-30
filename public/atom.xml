@@ -4068,7 +4068,7 @@ history of tracking users.&lt;&#x2F;p&gt;
         <link rel="alternate" type="text/html" href="https://gofmhy.tech/posts/new-site/"/>
         <id>https://gofmhy.tech/posts/new-site/</id>
         
-        <content type="html" xml:base="https://gofmhy.tech/posts/new-site/">&lt;h3 id=&quot;new-url-https-gofmhy.tech&quot;&gt;New URL: https:&#x2F;&#x2F;gofmhy.tech&#x2F;&lt;&#x2F;h3&gt;
+        <content type="html" xml:base="https://gofmhy.tech/posts/new-site/">&lt;h3 id=&quot;new-url-https-gofmhy-tech&quot;&gt;New URL: https:&#x2F;&#x2F;gofmhy.tech&#x2F;&lt;&#x2F;h3&gt;
 &lt;p&gt;Hey everyone, just wanted to let you all know that we’re finally done with the
 new website, and are officially launching it today! I know a lot of different
 versions of FMHY have been made over the years, but we’ve put a ton of effort
@@ -5273,7 +5273,7 @@ without telling the user it’s been enabled, or how to turn it off.&lt;&#x2F;p&
         <content type="html" xml:base="https://gofmhy.tech/posts/search/">&lt;h3 id=&quot;streamlit-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fmhy-search.streamlit.app&#x2F;&quot;&gt;Streamlit Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;Search engine hosted on Streamlit&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;h3 id=&quot;gofmhy.tech-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gofmhy.tech&#x2F;&quot;&gt;FMHY.net Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;fmhy-net-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gofmhy.tech&#x2F;&quot;&gt;FMHY.net Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;Search engine hosted on FMHY.net&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h3 id=&quot;github-search&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;search?q=repo%3Afmhy%2FFMHY+&amp;amp;type=wikis&quot;&gt;GitHub Search&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
