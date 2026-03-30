@@ -1,0 +1,44 @@
+name: Auto-Sync Upstream
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Every day at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/fmhy/FMHY.git || true
+
+      - name: Fetch and process upstream
+        run: |
+          chmod +x sync.sh
+          ./sync.sh
+
+      - name: Check for changes and push
+        run: |
+          git add content/ static/
+          if git diff --cached --quiet; then
+            echo "No changes tracked."
+          else
+            git commit -m "chore: auto-sync with upstream [skip ci]"
+            git push origin main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
